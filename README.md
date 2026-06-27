@@ -23,4 +23,4 @@ This is a personal portfolio website made using HTML, CSS and JavaScript.
 2. Open `index.html` in browser
 
 ## Author
-Your Name
+Anuja Mone
